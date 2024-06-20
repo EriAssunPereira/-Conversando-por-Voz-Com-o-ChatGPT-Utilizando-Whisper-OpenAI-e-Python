@@ -1,6 +1,6 @@
-# -Conversando-por-Voz-Com-o-ChatGPT-Utilizando-Whisper-OpenAI-e-Python
+# Conversando-por-Voz-Com-o-ChatGPT-Utilizando-Whisper-OpenAI-e-Python
 
-Para desenvolver um sistema que combine Whisper da OpenAI para reconhecimento de fala, ChatGPT para processamento de linguagem natural e gTTS (Google Text-to-Speech) para síntese de voz, posso dividir o projeto em módulos claros. Vamos detalhar cada parte e fornecer exemplos de código para cada etapa.
+Para desenvolver um sistema que combine Whisper da OpenAI para reconhecimento de fala, ChatGPT para processamento de linguagem natural e gTTS (Google Text-to-Speech) para síntese de voz, posso dividir o projeto em módulos. Vou detalhar cada parte e fornecer exemplos de código para cada etapa.
 
 ### Módulo 1: Reconhecimento de Fala com Whisper
 
